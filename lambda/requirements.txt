@@ -1,3 +1,4 @@
 faiss-cpu
 langchain
 urllib3
+langchain-community
